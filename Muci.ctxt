@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Muci
+comment0.text=\r\n\ Class\ Muci\ je\ main\ character.\ \r\n\ @\r\n
+comment1.params=pointCounter\ life
+comment1.target=Muci(Counter,\ LifeCounter)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ eat()
+comment4.params=
+comment4.target=void\ checkKeys()
+comment5.params=
+comment5.target=void\ gameOver()
+numComments=6

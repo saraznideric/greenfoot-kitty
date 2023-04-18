@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Food
+comment1.params=
+comment1.target=Food()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=speed
+comment3.target=void\ setSpeed(int)
+comment4.params=points
+comment4.target=void\ setPoints(int)
+comment5.params=
+comment5.target=int\ getPoints()
+numComments=6
